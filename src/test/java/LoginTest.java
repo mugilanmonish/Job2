@@ -8,6 +8,6 @@ public class LoginTest {
 	public void login() {
 		Reporter.log("--------------Job2 - Login------------", true);
 //		Assert.fail();
-		// new line added
+	
 	}
 }
