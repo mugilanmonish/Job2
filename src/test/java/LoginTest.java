@@ -9,5 +9,6 @@ public class LoginTest {
 		Reporter.log("--------------Job2 - Login------------", true);
 //		Assert.fail();
 		// new conflict
+		// handle conflict
 	}
 }
